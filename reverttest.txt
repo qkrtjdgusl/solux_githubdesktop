@@ -1,2 +1,3 @@
 command1
-reset1
+Reset1
+2
